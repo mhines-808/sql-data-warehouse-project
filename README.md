@@ -8,7 +8,7 @@ Building a modern SQL warehouse with MySQL including ETL process, data modeling 
 This project demonstrates how to build a modern SQL-based data warehouse using MySQL.  
 It covers the complete workflow from raw data ingestion to analytics-ready reporting.
 
-The project includes:
+🛡️:The project includes:
 
 - ETL (Extract, Transform, Load) processes
 - Data cleaning and transformation
@@ -21,7 +21,7 @@ The goal is to simulate a real-world data engineering and analytics pipeline usi
 
 ---
 
-# Project Architecture
+🚀: Project Architecture
 
 ```text
 Raw Data Sources
